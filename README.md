@@ -138,8 +138,19 @@ import { Output } from "./lib/Output.js";
 
 ---
 
+## Compatibility
+
+Node.js: v20.x and above
+
+Operating Systems: Windows, macOS, Linux
+
+Shells: Bash, Zsh, PowerShell, Command Prompt
+
+---
+
 ## License
-ISC License © 2025 advait_thakar
+
+This project is licensed under the MIT License.
 
 ---
 
